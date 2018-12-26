@@ -1,0 +1,6 @@
+#eobj = []q
+#obj = ["perro"]
+
+for a in obj:
+    print("esdsf")
+    print(a)
